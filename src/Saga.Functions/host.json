@@ -7,10 +7,10 @@
   },
   "logging": {
     "fileLoggingMode": "debugOnly",
-    "logLevel": {
-      "Function.MyFunction": "Information",
-      "default": "None"
-    },
+    //"logLevel": {
+    //  "Function.MyFunction": "Information",
+    //  "default": "None"
+    //},
     "applicationInsights": {
       "samplingSettings": {
         "isEnabled": true,
