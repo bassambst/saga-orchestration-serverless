@@ -181,4 +181,4 @@ resource "azurerm_application_insights" "sagalogic-application-insights" {
   location            = var.location
   resource_group_name = azurerm_resource_group.sagalogic-resource-group.name
   application_type    = "web"
-}
+} 
